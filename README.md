@@ -42,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="50" height="70"/>
-</div>
 
 ###
 
