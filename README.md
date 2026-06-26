@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/523/176/datas/original.png"  />
+<img align="right" height="175" src="https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/523/176/datas/original.png"  />
 
 ###
 
